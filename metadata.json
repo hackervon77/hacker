@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Offline Chat",
+  "description": "A robust AI chat application that functions offline using Chrome's Built-in AI (Gemini Nano) and seamlessly switches to Gemini Cloud API when online. Features persistent local storage for chat history.",
+  "requestFramePermissions": []
+}
